@@ -23,19 +23,23 @@
   The README is frequently ignored, which is why I made this project in the first place. This might be the result of the developer being too lazy to include it or not knowing the right syntax to write a README file. Additionally, it's possible that they don't know what to put in the README.
 
   By responding to a series of specified questions, the user of our README generator can have a complete, polished README created based on their answers. It will only take a few minutes, and the developer will be able to make their project comprehensive and look more professional, increasing the likelihood that someone will choose their software to others without a README.
+  
+  <img width="561" alt="Screenshot 2022-11-19 at 4 32 09 PM" src="https://user-images.githubusercontent.com/112728880/202877237-3b647886-7156-464d-8167-23318a7b3407.png">
+
 
   ## [Installation](#table-of-contents)
 
   You must first download Node in order to utilize my project, and you can find instructions for doing so on the Full-Stack Blog. Additionally, you will need to install inquirer. To do so, enter the command 'npm I inquirer@8.2.4' in your terminal.
+  
+  <img width="566" alt="Screenshot 2022-11-19 at 4 36 45 PM" src="https://user-images.githubusercontent.com/112728880/202877240-4c7ce1ad-7cc7-41e9-b332-3fee5f2e1d99.png">
+
 
   ## [Usage](#table-of-contents)
 
   Run the command 'node inex.js' in the terminal once the installation is complete. After responding to the questions, you should see a terminal record of your responses, a message that reads "File created!" and your file, which is called "generatedREADME," under the "dist" folder. You can copy and paste that code into your project because it is generated in markdown format.
   
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
-  
+<img width="561" alt="Screenshot 2022-11-19 at 4 34 10 PM" src="https://user-images.githubusercontent.com/112728880/202877248-7e24d062-3e78-4838-a67c-89a88340e745.png">
+
   
   ## [License](#table-of-contents)
 
